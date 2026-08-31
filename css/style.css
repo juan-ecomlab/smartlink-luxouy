@@ -60,7 +60,6 @@ form input {
     height: 42px;
     padding-left: 10px;
     border: 1px solid #100f0f;
-    background-color: #e6e6e6;
 }
 
 form input::placeholder {
